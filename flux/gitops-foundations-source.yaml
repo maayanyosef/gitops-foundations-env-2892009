@@ -8,5 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/maayan/gitops-foundations-env-2892009.git
-
+  url: https://github.com/maayanyosef/gitops-foundations-env-2892009.git
